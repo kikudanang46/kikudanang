@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kikudanang46.github.io/kikudanang/sitemap.xml
